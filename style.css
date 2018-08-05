@@ -1,19 +1,23 @@
 body {
 	font: 70%/1.4em Verdana,sans-serif;
 	color: black;
-	background: green;
+	background: bcgk.png;
 }
 
 p {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 h2 {
   color: blue;
+
 }
 
 h3 {
   color: red;
+  font-size: 16px;
+  background: #f7f7f7f7;
+  
 }
 
 a:link, a:visited, a:active {
@@ -75,12 +79,12 @@ a:hover {
 	background-position: 98.5% 0;
 }
 
-#footer {
-	clear: both;
+footer {
+	
 	text-align: right;
 	background: #ddd;
 	padding: 10px;
-	font-size: 12px;
+	font-size: 16px;
 	color: #333;
 }
 
